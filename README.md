@@ -6,10 +6,9 @@ The name of files determines the order of the running process.
 
 ### To have model A:
 
-1_feature_engineering_english.ipynb
-4_hyperparameter_tuning_model_A.ipynb
+Run "1_feature_engineering_english.ipynb" then execute "4_hyperparameter_tuning_model_A.ipynb".
 
-Inference pipeline:
+Inference pipeline:\n
 5_inference_model_B.ipynb
 
 ### To have model B:
