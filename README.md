@@ -25,9 +25,16 @@ Inference pipeline:
 [Link to the model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 
 
-**Model A model achieves the following results on the evaluation set:**
+**Model A achieves the following results on the evaluation set:**
 
 | Accuracy  | Loss   |Precision  | Recall |   F1   |
 | --------- | ------ | --------- | ------ |------- |
 | 0.9756    | 0.0875 |  0.8761   | 0.8916 | 0.8838 |
+
+**Model B achieves the following results on the evaluation set:**
+
+| Accuracy  | Loss   |Precision  | Recall |   F1   |
+| --------- | ------ | --------- | ------ |------- |
+| 0.9883    | 0.0339 |  0.9316   | 0.9369 | 0.9342 |
+
 
