@@ -21,6 +21,8 @@ Inference pipeline:
 Inference pipeline:
 5_inference_model_B.ipynb
 
+## Models on huggingface:
+
 **Model A on huggingface:**
 Link to the [Model A]: (https://huggingface.co/MaryDatascientist/modelA_1_12_2023)
 
@@ -28,7 +30,7 @@ Link to the [Model A]: (https://huggingface.co/MaryDatascientist/modelA_1_12_202
 Link to the [Model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 
 
-### Results on evaluation set:
+## Results on evaluation set:
 
 **Model A achieves the following results on the evaluation set:**
 
