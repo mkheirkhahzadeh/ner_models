@@ -29,9 +29,7 @@ Inference pipeline:
 
 
 
+| Accuracy  | Loss   |Precision  | Recall |   F1
+| --------- | ------ | --------- | ------ |------- |
+| 0.9756    | 0.0875 |  0.8761   | 0.8916 | 0.8838 |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
