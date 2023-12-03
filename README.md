@@ -42,7 +42,7 @@ Link to the [Model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 | 0.9883    | 0.0339 |  0.9316   | 0.9369 | 0.9342 |
 
 ## Report
-The report charts are available in the Report folder. I used Weights & Biases platform for tuning. For model A, I consider count=1 in the wandb.agent insturction. However, for model B, because of time and GPU limitation, I set the count to 1. Therefore, parallel coordination chart is only available for model A (as you can see here).
+The report charts are available in the Report folder. I used Weights & Biases platform for tuning. For model A, I consider count=1 in the wandb.agent insturction. However, for model B, because of time and GPU limitation, I set the count to 1. Therefore, parallel coordinates chart is only available for model A (as you can see here).
 
 ![](Images/eval_modelA.jpg)
 
