@@ -1,5 +1,5 @@
 # ner_models
-The project aims to fine tune the bert-base-uncase model for named entity recognition task on the MultiNERD dataset. I fine-tuned two models, A and B. The first model has been tuned on English samples of the MultiNERD dataset. Model A predicts 15 entity types and the O tag (i.e. not part of an entity). The model B is similar to the model A, however, has been tuned to predict only five entity types and also the non-entity tag .
+The project aims to fine tune the bert-base-uncase model for named entity recognition task on the MultiNERD dataset. I fine-tuned two models, A and B. The first model has been tuned on English samples of the MultiNERD dataset. Model A predicts 15 entity types and the O tag (i.e. not part of an entity). Model B is similar to the model A, however, has been tuned to predict only five entity types and also the non-entity tag .
 
 ## Running the files:
 The name of files determines the order of the running process. 
