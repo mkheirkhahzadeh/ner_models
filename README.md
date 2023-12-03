@@ -6,19 +6,17 @@ The name of files determines the order of the running process.
 
 ### To have model A:
 
-Run "1_feature_engineering_english.ipynb" then execute "4_hyperparameter_tuning_model_A.ipynb".
+You should run "1_feature_engineering_english.ipynb" then execute "4_hyperparameter_tuning_model_A.ipynb".
 
 Inference pipeline:<br />
-5_inference_model_B.ipynb
+"5_inference_model_B.ipynb"
 
 ### To have model B:
 
-1_feature_engineering_english.ipynb
-2_3_feature_engineering_tag_limitations.ipynb
-4_hyperparameter_tuning_model_B.ipynb
+You should run "1_feature_engineering_english.ipynb", "2_3_feature_engineering_tag_limitations.ipynb", and after that you should execute "4_hyperparameter_tuning_model_B.ipynb".
 
-Inference pipeline:
-5_inference_model_B.ipynb
+Inference pipeline:<br />
+"5_inference_model_B.ipynb"
 
 ## Models on huggingface:
 
@@ -44,7 +42,7 @@ Link to the [Model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 | 0.9883    | 0.0339 |  0.9316   | 0.9369 | 0.9342 |
 
 ## Report
-The report charts are available in the Report folder. I used Weight&Biases for fine-tuning. For model A, count parameter in wandb.agent insturction is set to two. However, for model B, because of time and GPU limitation, I set the count to 1. Therefore, parallel coordination chart is only available for model A (as you can see here).
+The report charts are available in the Report folder. I used Weights & Biases platform for tuning. For model A, I consider count=1 in the wandb.agent insturction. However, for model B, because of time and GPU limitation, I set the count to 1. Therefore, parallel coordination chart is only available for model A (as you can see here).
 
 ![](Images/eval_modelA.jpg)
 
