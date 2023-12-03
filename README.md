@@ -24,12 +24,9 @@ Inference pipeline:
 [Link to the model A]: (https://huggingface.co/MaryDatascientist/modelA_1_12_2023)
 [Link to the model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 
-> [!TIP]
-> Optional information to help a user be more successful.
+**The model achieves the following results on the evaluation set:**
 
-
-
-| Accuracy  | Loss   |Precision  | Recall |   F1
+| Accuracy  | Loss   |Precision  | Recall |   F1   |
 | --------- | ------ | --------- | ------ |------- |
 | 0.9756    | 0.0875 |  0.8761   | 0.8916 | 0.8838 |
 
