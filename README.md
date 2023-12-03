@@ -24,6 +24,8 @@ Inference pipeline:
 [Link to the model A]: (https://huggingface.co/MaryDatascientist/modelA_1_12_2023)
 [Link to the model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 
+> [!TIP]
+> Optional information to help a user be more successful.
 
 
 
