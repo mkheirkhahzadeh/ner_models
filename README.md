@@ -4,7 +4,7 @@ The project aims to fine tune the bert-base-uncase model for named entity recogn
 ## Running the files:
 The name of files determines the order of the running process. 
 
-###To have model A:
+### To have model A:
 
 1_feature_engineering_english.ipynb
 4_hyperparameter_tuning_model_A.ipynb
@@ -12,7 +12,7 @@ The name of files determines the order of the running process.
 Inference pipeline:
 5_inference_model_B.ipynb
 
-###To have model B:
+### To have model B:
 
 1_feature_engineering_english.ipynb
 2_3_feature_engineering_tag_limitations.ipynb
