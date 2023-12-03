@@ -22,6 +22,7 @@ Inference pipeline:
 5_inference_model_B.ipynb
 
 Link to the [Model A]: (https://huggingface.co/MaryDatascientist/modelA_1_12_2023)
+
 Link to the [Model B]: (https://huggingface.co/MaryDatascientist/B_model2)
 
 
