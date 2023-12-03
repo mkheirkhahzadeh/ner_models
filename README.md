@@ -1,10 +1,10 @@
 # ner_models
 The project aims to fine tune the bert-base-uncase model for named entity recognition task on the MultiNERD dataset. I fine-tuned two models, A and B. The first model has been tuned on English samples of the MultiNERD dataset. Model A predicts 15 entity types and the O tag (i.e. not part of an entity). The model B is similar to the model A, however, has been tuned to predict only five entity types and also the non-entity tag .
 
-Running the files:
+## Running the files:
 The name of files determines the order of the running process. 
 
-To have model A:
+###To have model A:
 
 1_feature_engineering_english.ipynb
 4_hyperparameter_tuning_model_A.ipynb
@@ -12,7 +12,7 @@ To have model A:
 Inference pipeline:
 5_inference_model_B.ipynb
 
-To have model B:
+###To have model B:
 
 1_feature_engineering_english.ipynb
 2_3_feature_engineering_tag_limitations.ipynb
